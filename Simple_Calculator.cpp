@@ -7,6 +7,7 @@ int main()
     
     do
     {
+        cout << "\n===== Calculator Menu =====" << endl;
         cout << "\nMenu for Arithmeitc Operators \nPlease select the arithmetic operation  \n1. For Addition \n2. For Subtraction \n3. For Multiplication \n4. For Divsion \n5. Exit \n";
         cout << "Enter your choice ";
         cin >> operation;
